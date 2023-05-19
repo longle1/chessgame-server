@@ -1,0 +1,15 @@
+E:\lập trình c#\ServerChessGame\ServerChessGame\bin\Debug\net6.0\ServerChessGame.exe
+E:\lập trình c#\ServerChessGame\ServerChessGame\bin\Debug\net6.0\ServerChessGame.deps.json
+E:\lập trình c#\ServerChessGame\ServerChessGame\bin\Debug\net6.0\ServerChessGame.runtimeconfig.json
+E:\lập trình c#\ServerChessGame\ServerChessGame\bin\Debug\net6.0\ServerChessGame.dll
+E:\lập trình c#\ServerChessGame\ServerChessGame\bin\Debug\net6.0\ServerChessGame.pdb
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.AssemblyReference.cache
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.AssemblyInfoInputs.cache
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.AssemblyInfo.cs
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.CoreCompileInputs.cache
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.dll
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\refint\ServerChessGame.dll
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.pdb
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.genruntimeconfig.cache
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ref\ServerChessGame.dll
