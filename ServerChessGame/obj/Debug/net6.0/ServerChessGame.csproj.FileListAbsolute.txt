@@ -13,3 +13,5 @@ E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\refint\Serve
 E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.pdb
 E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.genruntimeconfig.cache
 E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ref\ServerChessGame.dll
+E:\lập trình c#\ServerChessGame\ServerChessGame\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\lập trình c#\ServerChessGame\ServerChessGame\obj\Debug\net6.0\ServerChessGame.csproj.CopyComplete
